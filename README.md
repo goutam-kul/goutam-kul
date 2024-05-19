@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <samp>
-      > I am a Data Science and ECE undergrad from India.
+      > I am a Data Science enthusiast and ECE undergrad from India.
   </samp>
     
 </h2>
