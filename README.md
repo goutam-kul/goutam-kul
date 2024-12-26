@@ -25,8 +25,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoys creating data science and electronics project <br/><br/>
- ❤️ &emsp; Love to write code and learn new features <br/><br/>
+ ✌️ &emsp; I enjoy creating quality repositories and projects <br/><br/>
+ ❤️ &emsp; Love Data Science, Machine Learning, Deep Learinng and NLP <br/><br/>
  📧 &emsp; Reach me anytime here : goutammunda3134@gmail.com <br/><br/>
 
 </p>
